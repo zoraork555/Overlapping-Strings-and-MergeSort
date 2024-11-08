@@ -9,3 +9,8 @@ After the files have been iterated through, the result array is sorted using mer
 ## How to use
 The command to use this file is "./a.exe {i/s} {file 1} {file 2}"  
 The first argument is 'i' for integer and 's' for string  
+
+## Files
+For testing purposes, two pairs of files have been provided to see the project work.  
+in1.txt and in2.txt are a pair. They contain integers.  
+in3.txt and in4.txt are a pair. They contain strings.  
