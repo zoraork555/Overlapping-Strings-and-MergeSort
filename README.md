@@ -1,4 +1,4 @@
-# Overlapping-Strings-and-MergeSort
+# Overlapping-Lists-and-MergeSort
 
 ## Overview
 This project takes in two files of either int or string type.  
